@@ -5,7 +5,7 @@
 
 **3. Create a folder. Name of folder should be same as your GitHub Username.**
 
-**4. Create a text file and write the following information in it.**
+**4. Create a text file in the folder and write the following information in it.**
 
 ```
 Name: Your name
